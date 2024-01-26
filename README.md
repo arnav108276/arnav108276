@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Goel</h1>
-<h3 align="center">A passionate Computer Science enthusiast</h3>
+<h2 align="center">A passionate Computer Science enthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav108276&label=Profile%20views&color=0e75b6&style=flat" alt="arnav108276" /> </p>
 
