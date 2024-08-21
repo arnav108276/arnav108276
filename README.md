@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing my B.Tech degree **in Dev-Sec-Ops from UPES**
 
-- 👨‍💻 All of my projects are available at [github itself](github itself)
+- 👨‍💻 All of my projects are available at github itself
 
 - 📫 How to reach me **Arnav9368543702@gmail.com**
 
