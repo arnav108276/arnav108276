@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://www.hackerrank.com/arnav_108276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnav_108276" height="30" width="40" /></a>
 
-<a align="center" target="blank" href="https://www.linkedin.com/in/arnav-goel-491103262/"><img src="https://www.google.com/imgres?q=linkedin%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&docid=vLBuaTBzrfpOUM&tbnid=JdyXos__tp7KHM&vet=12ahUKEwiPvarPrYuIAxV_gFYBHTuiMm8QM3oECGYQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiPvarPrYuIAxV_gFYBHTuiMm8QM3oECGYQAA" alt="<img src="https://www.google.com/imgres?q=linkedin%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&docid=vLBuaTBzrfpOUM&tbnid=JdyXos__tp7KHM&vet=12ahUKEwiPvarPrYuIAxV_gFYBHTuiMm8QM3oECGYQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiPvarPrYuIAxV_gFYBHTuiMm8QM3oECGYQAA">" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
