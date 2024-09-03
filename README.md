@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav108276" alt="arnav108276" /></a> </p>
 
-- 🌱 I’m currently pursuing my B.Tech degree **in Dev-Sec-Ops from UPES**
+- 🌱 I’m currently pursuing my B.Tech degree **in DevSecOps from UPES**
 
 - 👨‍💻 All of my projects are available at github itself
 
