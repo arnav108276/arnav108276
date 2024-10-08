@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav108276&show_icons=true&locale=en" alt="arnav108276" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav108276&" alt="arnav108276" /></p><img src="https://holopin.me/arnav108276" width="270">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav108276&" alt="arnav108276" /></p><img src="https://holopin.me/arnav108276" width="420">
