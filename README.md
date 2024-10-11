@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Goel</h1>
 <h3 align="center">A passionate Computer Science enthusiast</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav108276&label=Profile%20views&color=0e75b6&style=flat" alt="arnav108276" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav108276" alt="arnav108276" /></a> </p>
@@ -27,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav108276&show_icons=true&locale=en" alt="arnav108276" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav108276&" alt="arnav108276" /></p><img src="https://holopin.me/arnav108276" width="420">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
