@@ -2,10 +2,14 @@
 <h3 align="center">A passionate Computer Science enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav108276&label=Profile%20views&color=0e75b6&style=flat" alt="arnav108276" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav108276" alt="arnav108276" /></a> </p>
-- 🌱 I’m currently pursuing my B.Tech degree **in DevSecOps from UPES**
-- 👨‍💻 All of my projects are available at github itself
-- 📫 How to reach me **Arnav9368543702@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/arnav-goel-491103262/](https://www.linkedin.com/in/arnav-goel-491103262/)
+- 🌱 I’m currently pursuing my B.Tech degree in DevSecOps from UPES.<br>
+- 👨‍💻 Most of my projects are available at github itself<br>
+- 📫 How to reach me Arnav9368543702@gmail.com<br>
+- 📄 Know about my experiences  
+  <a href="https://www.linkedin.com/in/arnav-goel-491103262/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20" style="vertical-align:sub; margin-left:2px;"/>
+  </a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
